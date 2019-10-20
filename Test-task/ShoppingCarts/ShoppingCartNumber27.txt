@@ -1,0 +1,3 @@
+A mosquito,1154.0,10,
+A mulatto,100.0,1,
+My libido,100.0,4,
